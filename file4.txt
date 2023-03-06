@@ -1,4 +1,0 @@
-Im finding it interesting >> file4.txt
-exit
-git exit
-echo Im finding it interesting
